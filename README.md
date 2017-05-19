@@ -19,6 +19,8 @@ conda env create -f environments.yml
 
 # Use TensorFlow with GPU
 conda env create -f environments-gpu.yml
+
+source activate car-behavioral-cloning
 ```
 
 Or you can manually install the required libraries (see the contents of the environemnt*.yml files) using pip.
