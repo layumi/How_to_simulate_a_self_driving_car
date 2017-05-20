@@ -25,6 +25,8 @@ source activate car-behavioral-cloning
 
 Or you can manually install the required libraries (see the contents of the environemnt*.yml files) using pip.
 
+csv:   centerPath, leftPath, rightPath, sample.steeringAngle, sample.throttle, sample.brake, sample.speed
+https://github.com/udacity/self-driving-car-sim/blob/43c30490fd1230e387397139bc01432f020860ff/Assets/Standard%20Assets/Vehicles/Car/Scripts/CarController.cs#L428
 
 ## Usage
 
